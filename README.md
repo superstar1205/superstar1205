@@ -55,7 +55,7 @@
 
 ## *Contact me anytime*
 
-<h5 color="#ff0000">Click anything for contact me (^_~)</h5>
+<h5 color="red">Click anything for contact me (^_~)</h5>
 <a href="https://discord.gg/ECVpNJFU"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
 <a href="https://t.me/superstar1205"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
 <a href="https://join.skype.com/invite/yLcFq5ao5Bvo"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
